@@ -1,7 +1,7 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/shapefuture/bolt.diy)
 [![Deploy to Fly](flyio-button.svg?raw=true)](https://codepen.io/shapefuture/full/Byyrwyq)
 
-<a href="[https://fly.io/docs/app-guides/run-a-global-image-service/](https://codepen.io/shapefuture/full/Byyrwyq)">
+<a href="[https://codepen.io/shapefuture/full/Byyrwyq](https://codepen.io/shapefuture/full/Byyrwyq)">
   <img src="flyio-button.svg?raw=true" width="200">
 </a>
 
