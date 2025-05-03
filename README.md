@@ -1,5 +1,12 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/shapefuture/bolt.diy)
 
+[![Deploy to Fly.io](flyio-button.svg?raw=true)](https://codepen.io/shapefuture/full/Byyrwyq)
+
+
+<a href="https://codepen.io/shapefuture/full/Byyrwyq">
+  <img src="flyio-button.svg?raw=true" width="200">
+</a>
+
 # bolt.diy
 
 
