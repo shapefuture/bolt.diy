@@ -1,7 +1,5 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/shapefuture/bolt.diy)
 
-[![Deploy to Fly](https://raw.githubusercontent.com/shapefuture/bolt.diy/main/flyio-button.svg)](https://codepen.io/shapefuture/full/Byyrwyq)
-
 <a href="https://codepen.io/shapefuture/full/Byyrwyq">
   <img src="https://raw.githubusercontent.com/shapefuture/bolt.diy/main/flyio-button.svg" width="200">
 </a>
